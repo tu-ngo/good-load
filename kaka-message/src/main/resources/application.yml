@@ -16,4 +16,5 @@ spring:
 #                class: org.springframework.kafka.support.serializer.JsonDeserializer
 #    producer:
 #      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: rubik-hackathon.dev.intgdc.com:29092
+#    bootstrap-servers: localhost:9092
